@@ -302,23 +302,21 @@ As a PR author, you must:
 
 ---
 
-### 5. Short personal reflection
+### 3. Short personal reflection
 
-Create an issue:
+1. [ ] Create the issue `[Task] Personal reflection`.
 
-- `[Task] Personal reflection – Lab 01`
+    > [!IMPORTANT]
+    > Write this section **without** an LLM. It’s about your own thoughts.
 
-1. In `src/reflection.md` write 5–10 sentences answering:
-    - Which role did you choose and why?
-    - What is one thing about the product’s architecture that was new to you?
-    - Which course topics (Git, Linux, Docker, REST, CI/CD, fullstack, data) seem most relevant to your chosen role?
-    - What is one concrete skill you would like to improve this semester?
-2. Commit, push, and (optionally) open a small PR, or add it to an existing one.
+2. [ ] In `./docs/reflection.md` write 5–10 sentences answering:
+    - [ ] Which role did you choose and why?
+    - [ ] What is one thing about the product’s architecture that was new to you?
+    - [ ] Which course topics (Git, Linux, Docker, REST, CI/CD, fullstack, data) seem most relevant to your chosen role?
+    - [ ] What is one concrete skill you would like to improve this semester?
 
-> 💡 **LLM check:**
->
-> - Write this section **without** an LLM. It’s about your own thoughts.
->
+3. [ ] Follow the process for [Main tasks](#main-tasks) to complete the issue with a PR.
+
 ---
 
 ### 6. Stretch tasks (optional)
