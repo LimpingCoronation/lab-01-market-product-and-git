@@ -46,11 +46,11 @@ Based on your intuition and some research, list **tech skills that are required 
 
 ## Acceptance Criteria
 
-- [ ] Issue created
-- [ ] `docs/roles-and-skills.md` created
-- [ ] Components mapped to roles (at least 5 components)
-- [ ] Role mapping seems reasonable for this product
-- [ ] 5 roles described with responsibilities
-- [ ] Common skills are listed
-- [ ] Partner reviewed and approved
-- [ ] PR merged
+- [x] Issue created
+- [x] `docs/roles-and-skills.md` created
+- [x] Components mapped to roles (at least 5 components)
+- [x] Role mapping seems reasonable for this product
+- [x] 5 roles described with responsibilities
+- [x] Common skills are listed
+- [x] Partner reviewed and approved
+- [x] PR merged
